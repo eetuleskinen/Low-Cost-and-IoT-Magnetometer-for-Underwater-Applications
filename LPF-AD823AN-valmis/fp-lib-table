@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name 35226K2FT)(type Legacy)(uri C:/Users/eetu_/Downloads/LIB_35226K2FT/35226K2FT/KiCad/35226K2FT.mod)(options "")(descr ""))
+  (lib (name ECWFD2W105JB)(type Legacy)(uri "C:/Users/eetu_/Downloads/LIB_ECWFD2W105JB (1)/ECWFD2W105JB/KiCad/ECWFD2W105JB.mod")(options "")(descr ""))
+)

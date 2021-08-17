@@ -1,0 +1,42 @@
+### Module positions - created on 08/16/21 11:11:43 ###
+### Printed by Pcbnew version pcbnew (5.1.10)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val         Package                PosX       PosY       Rot  Side
+IC1       AD823AARMZ  SOP65P490X110-8N    45.8470   -46.9900    0.0000  top
+IC2       AD823AARMZ  SOP65P490X110-8N    47.3710  -128.7780    0.0000  top
+IC3       AD823AARMZ  SOP65P490X110-8N    91.1860   -47.1170    0.0000  top
+IC4       AD823AARMZ  SOP65P490X110-8N    92.8370  -128.5240    0.0000  top
+IC5       AD823AARMZ  SOP65P490X110-8N   137.9220   -48.0060    0.0000  top
+IC6       AD823AARMZ  SOP65P490X110-8N   137.4750  -127.9450    0.0000  top
+R1        6,2k_ohm    RESC6432X120N       36.3090   -46.9900  180.0000  top
+R4        150k_ohm    RESC6432X120N       32.6390   -53.0860  180.0000  top
+R5        150k_ohm    RESC6432X120N       34.9380  -134.3660  180.0000  top
+R6        150k_ohm    RESC6432X120N       81.1530   -52.8320  180.0000  top
+R7        12k_ohm     RESC6432X120N       58.6610   -46.9900  180.0000  top
+R8        12k_ohm     RESC6432X120N       58.4200  -128.9050  180.0000  top
+R9        12k_ohm     RESC6432X120N      104.6350   -46.9900  180.0000  top
+R13       150k_ohm    RESC6432X120N       83.0450  -133.8580  180.0000  top
+R14       150k_ohm    RESC6432X120N      124.2060   -53.3400  180.0000  top
+R15       150k_ohm    RESC6432X120N      126.2380  -133.2230  180.0000  top
+R16       12k_ohm     RESC6432X120N      105.8415  -128.3970  180.0000  top
+R17       12k_ohm     RESC6432X120N      150.8630   -48.2600  180.0000  top
+R18       12k_ohm     RESC6432X120N      150.7490  -128.1430  180.0000  top
+R20       1,8k_ohm    RESC6432X120N       25.5270  -128.9050    0.0000  top
+R21       1,8k_ohm    RESC6432X120N       71.3740   -47.3710    0.0000  top
+R22       1,8k_ohm    RESC6432X120N       25.2860   -46.9900    0.0000  top
+R23       6,2k_ohm    RESC6432X120N       36.1820  -128.9050    0.0000  top
+R24       6,2k_ohm    RESC6432X120N       81.1400   -47.3710    0.0000  top
+R26       1k_ohm      RESC6432X120N       34.9380  -139.9540    0.0000  top
+R28       1k_ohm      RESC6432X120N       32.6260   -58.5470    0.0000  top
+R30       1k_ohm      RESC6432X120N       81.1530   -58.4200    0.0000  top
+R37       1,8k_ohm    RESC6432X120N       73.4060  -128.3970    0.0000  top
+R38       1,8k_ohm    RESC6432X120N      116.8530   -48.0060    0.0000  top
+R39       1,8k_ohm    RESC6432X120N      118.7450  -128.0160    0.0000  top
+R40       6,2k_ohm    RESC6432X120N       83.3120  -128.3970    0.0000  top
+R41       6,2k_ohm    RESC6432X120N      126.6190   -48.0060    0.0000  top
+R42       6,2k_ohm    RESC6432X120N      128.5370  -128.0160    0.0000  top
+R44       1k_ohm      RESC6432X120N       83.0450  -139.5730    0.0000  top
+R46       1k_ohm      RESC6432X120N      124.0660   -58.6740    0.0000  top
+R48       1k_ohm      RESC6432X120N      126.2380  -139.0650    0.0000  top
+## End
